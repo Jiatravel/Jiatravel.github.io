@@ -1,0 +1,28 @@
+body {
+    background-color: #1235;
+}
+
+/*t for "text"*/
+
+t1 {
+    color: black;
+}
+
+t1.a {
+    border: 2px solid black;
+}
+
+t2 {
+    color: red;
+    text-decoration-style: solid;
+}
+
+/*ul for list*/
+
+ul.a {
+    list-style-type: decimal;
+}
+
+ul.b {
+    list-style-type: cjk-ideographic;
+}
